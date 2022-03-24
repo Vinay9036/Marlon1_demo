@@ -10,20 +10,5 @@ public class CreatePurchaseOrderTest {
 		
 		System.out.println("2nd purchase Order created ");
 	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 }
