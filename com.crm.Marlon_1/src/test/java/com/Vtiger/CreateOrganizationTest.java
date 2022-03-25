@@ -12,9 +12,10 @@ public class CreateOrganizationTest {
 		
 		System.out.println("3rd organization created");
 		
-		System.out.println("4rd organization created");
+		System.out.println("4th organization created");
 		
-		System.out.println("5rd organization created");
+		System.out.println("5th organization created");
 		
+		System.out.println("6th organization created");
 	}
 }
