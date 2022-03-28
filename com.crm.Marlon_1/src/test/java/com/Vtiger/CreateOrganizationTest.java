@@ -19,5 +19,7 @@ public class CreateOrganizationTest {
 		System.out.println("6th organization created");
 		
 		System.out.println("7th organization created");
+		
+		System.out.println("8th organization created");
 	}
 }
